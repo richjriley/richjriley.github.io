@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+<iframe src="https://trinket.io/embed/python3/ec81ba0335" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 You can use the [editor on GitHub](https://github.com/richjriley/richjriley.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
